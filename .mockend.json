@@ -4,9 +4,8 @@
     "Stock": { "int": { "min": 0, "max": 1000000 } },
     "Pays": { "string": {} },
     "Domaine": { "string": {} },
-    "Couleur": { "string": {} },
+    "Couleur": { "string": {} }
   },
-  {
   "Post": {
     "title": { "string": {} },
     "comments": {
