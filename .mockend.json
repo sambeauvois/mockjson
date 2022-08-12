@@ -1,0 +1,9 @@
+{
+  "Wine": {
+    "Nom": { "string": {} },
+    "Stock": { "int": {} },
+    "Pays": { "string": {} },
+    "Domaine": { "string": {} },
+    "Couleur": { "string": {} },
+  }
+}
