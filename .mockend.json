@@ -1,10 +1,16 @@
 {
   "Wine": {
-    "Nom": { "string": {} },
-    "Stock": { "int": { "min": 0, "max": 1000000 } },
-    "Pays": { "string": {} },
-    "Domaine": { "string": {} },
-    "Couleur": { "string": {} }
+    "Nom": { "loremWord": {} },
+    "Stock": { "int": { "min": 1, "max": 100 } },
+    "Pays": { "string": [
+      "France",
+      "Belgique"
+    ] },
+    "Domaine": { "loremWord": {} },
+    "Couleur": { "string": [
+      "Rouge",
+      "Blanc"
+    ] }
   },
   "Post": {
     "title": { "string": {} },
